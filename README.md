@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivannissimrch
 - 👀 I’m interested in webDevelopment
-- 🌱 I’m currently learning WebDevelopment and React Js
-- 💞️ I’m looking to collaborate on .. Front end Web development and React projects.
+- 🌱 I’m currently learning WebDevelopment and JavaScript
+- 💞️ I’m looking to collaborate on .. Front end Web development and JavaCript Projects
 - 📫 How to reach me ...
 
 <!---
