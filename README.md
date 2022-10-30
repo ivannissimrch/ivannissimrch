@@ -2,7 +2,7 @@
 - 👀 I’m interested in webDevelopment
 - 🌱 I’m currently learning WebDevelopment and JavaScript
 - 💞️ I’m looking to collaborate on .. Front end Web development and JavaCript Projects
-- 📫 How to reach me ...
+- 📫You can reach me on my email ivannissimrch@gmail.com
 
 <!---
 ivannissimrch/ivannissimrch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
