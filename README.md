@@ -1,10 +1,10 @@
 # Hi, I'm Ivan Rebolledo. 👋
 
-Welcome to my GitHub profile! I'm passionate about enhancing my coding skills and building exciting projects.
+Welcome to my GitHub profile! I'm passionate about enhancing my front-end developer coding skills and collaborating to build exciting projects.
 
 ## About Me
 
-I'm a self-taught front-end developer with an interest in learning coding to create web applications. I constantly try to improve my coding abilities, and I've been working with a code mentor who has been guiding me in my learning journey.
+I'm a self-taught front-end developer interested in learning to code to create web applications. I constantly try to improve my coding abilities, and I've been working with a code mentor who has guided me in my learning journey.
 
 ## Tech Stack
 
@@ -31,7 +31,7 @@ Here are some of the projects I’ve built so far:
 
 ## Mentorship
 
-I'm fortunate to be working with Martin my mentor who has been instrumental in my coding journey. Through his guidance, I've been able to:
+I'm fortunate to be working with Martin Stadler my mentor who has been instrumental in my coding journey. Through his guidance, I've been able to:
 
 *   Improve my problem-solving skills
 *   Develop best practices for writing clean and efficient code
@@ -40,7 +40,7 @@ There’s still so much more to learn, and I’m excited for the continuous grow
 
 ## Team Work
 
-I recently joined a voyage at Chingu as a front-end web developer to gain experience in collaborating on a team to build a meals scheduler application, 
+I recently joined Chingu as a front-end web developer to gain experience collaborating with a team to build a meal scheduler application.
 
 ## Contact
 
