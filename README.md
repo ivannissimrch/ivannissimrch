@@ -31,7 +31,7 @@ Here are some of the projects I’ve built so far:
 
 ## Mentorship
 
-I'm fortunate to be working with Martin Stadler my mentor who has been instrumental in my coding journey. Through his guidance, I've been able to:
+I'm fortunate to be working with a mentor who has been instrumental in my coding journey. Through his guidance, I've been able to:
 
 *   Improve my problem-solving skills
 *   Develop best practices for writing clean and efficient code
