@@ -1,6 +1,6 @@
 # Hi, I'm Ivan Rebolledo. 👋
 
-Welcome to my GitHub profile! I'm a self-taught front-end developer, some of my interests are, learning, and education especially learning about computer programming languages I would love to work on a project related to education for kids or anything related to making education more accessible to anyone. 
+Welcome to my GitHub profile! I'm a self-taught front-end developer also I'm a dog and cat lover, and I enjoy Latin dancing, especially bachata.
 
 ## About Me
 
