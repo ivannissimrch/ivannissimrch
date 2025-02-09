@@ -1,10 +1,10 @@
 # Hi, I'm Ivan Rebolledo. 👋
 
-Welcome to my GitHub profile! I'm a self-taught front-end developer also I'm a dog and cat lover, and I enjoy Latin dancing, especially bachata.
+Welcome to my GitHub profile! I'm a self-taught front-end developer, and dog and cat lover, and I enjoy Latin dancing, especially bachata.
 
 ## About Me
 
-I'm a self-taught front-end developer. I'm working on improving my coding abilities, and I've been working with a code mentor who has guided me in my learning journey.
+I'm a self-taught front-end developer. I'm improving my coding abilities, and I've been working with a code mentor who has guided me in my learning journey.
 Also, I'm participating as a front-end developer at a Chingu voyage to learn how to work on a team.
 
 ## Tech Stack
