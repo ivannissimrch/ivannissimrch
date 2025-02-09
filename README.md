@@ -1,11 +1,10 @@
 # Hi, I'm Ivan Rebolledo. 👋
 
-Welcome to my GitHub profile! I'm a self-taught front-end developer, and dog and cat lover, and I enjoy Latin dancing, especially bachata.
+Welcome to my GitHub profile! I'm a self-taught front-end developer, dog and cat lover, and enjoy Latin dancing, especially bachata.
 
 ## About Me
 
-I'm a self-taught front-end developer. I'm improving my coding abilities, and I've been working with a code mentor who has guided me in my learning journey.
-Also, I'm participating as a front-end developer at a Chingu voyage to learn how to work on a team.
+I'm a self-taught front-end developer passionate about creating meaningful web applications. I'm currently focused on improving my coding skills with the guidance of a mentor and by collaborating with others in a Chingu voyage.  I'm particularly interested in projects related to education accessibility, as I personally experienced barriers to higher education.  I believe technology can play a crucial role in making education more accessible to everyone.
 
 ## Tech Stack
 
@@ -17,7 +16,7 @@ Here are some of the technologies I'm currently working with:
 *   CSS
 *   Tailwind CSS
 *   Material-UI
-*   Next.Js   
+*   Next.js
 
 [![My Skills](https://skillicons.dev/icons?i=react,javascript,typescript,css,tailwindcss,materialui,nextjs)](https://skillicons.dev)
 
