@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a self-taught front-end developer.
 
 ## About Me
 
-I enjoy learning about front-end development technologies and creating applications. I'm currently focused on improving my coding skills with the guidance of a mentor and by collaborating with others in a Chingu voyage.  I'm particularly interested in projects related to education accessibility, as I personally experienced barriers to higher education.  I believe technology can play a crucial role in making education more accessible to everyone. Besides coding, I love taking my miniature poodle on hikes on the weekends and I enjoy Latin dancing.
+I love learning about front-end development technologies and creating applications. I'm currently focused on improving my coding skills with the guidance of my mentor [Martin Stadler](https://mentorcruise.com/mentor/martinstadler/?queryID=b9e92f8896ce0ca6073026eac3ac3a7c&source=search) and by collaborating on teams building applications at [Chingu](https://www.chingu.io/). Besides coding, I love taking my miniature poodle on hikes on the weekends and I enjoy Latin dancing.
 
 ## Tech Stack
 
