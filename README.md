@@ -1,4 +1,4 @@
-# Hi, I'm Ivan Rebolledo. 👋
+# Hi, I'm Ivan Rebolledo.
 
 Welcome to my GitHub profile! I'm a self-taught front-end developer.
 
