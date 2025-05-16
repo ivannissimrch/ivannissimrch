@@ -23,10 +23,9 @@ Here are some of the technologies I'm currently working with:
 ## Projects
 Here are some of the projects I’ve built so far:
 
-- **[Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)**: Displays information about stocks.
-- **[Playlist](https://github.com/ivannissimrch/PlayList)**: A Spotify clone built with React.
-- **[Shopping Cart](https://github.com/ivannissimrch/nextJsShoppingCart)**: An e-commerce website project for The Odin Project course.
-- **[Memory Card](https://github.com/ivannissimrch/MemoryCard)**: A fun memory card game for The Odin Project course.
+- **[Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)**: Currently working on this. This app allows you to search for information about stocks.
+- **[Weekly bytes](https://github.com/ivannissimrch/weeklyBytes)**: Meals scheduler app built in collaboration with a Chingu team.
+
 
 ## Contact
 
