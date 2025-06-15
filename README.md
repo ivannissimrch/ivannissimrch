@@ -1,6 +1,6 @@
 # Hello, I'm Ivan Rebolledo
 
-Welcome to my GitHub! I'm a self-taught **Front-End Developer** I enjoy building real-world applications using modern web technologies.
+Welcome to my GitHub! I'm a self-taught **Front-End Developer** passionate about building scalable and maintainable real-world applications using modern web technologies like **React** and **TypeScript**. I have 8 months of experience in collaborative Agile environments at Chingu.
 
 ---
 
