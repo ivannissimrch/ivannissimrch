@@ -40,6 +40,7 @@ A TypeScript-powered app to search and display stock information. Focused on rea
 
 ### [Weekly Bytes](https://github.com/ivannissimrch/weeklyBytes)
 A meal scheduler app built with a Chingu team. Allows managers to filter dishes based on employee allergens and dietary needs.
+**Live site**: https://weekly-bytes.com/
 
 Other notable projects:
 - **[Expense Splitter](https://github.com/ivannissimrch/expenseSplitter)**: A shared expense tracking app built with a Chingu team.
