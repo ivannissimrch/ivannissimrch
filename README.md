@@ -35,7 +35,7 @@ Technologies I'm currently working with:
 Here are a few of my featured projects:
 
 ### [DevVault](https://github.com/chingu-voyages/V55-tier2-team-24)
-A resource search app for finding curated coding content from chingu discord resources chanel.
+A resource search app for discovering curated coding content from the Chingu Discord #resources channel.
 **Live site**: https://dev-vault-chingu.netlify.app/
 
 ### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)
