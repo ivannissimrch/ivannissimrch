@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="github-banner.png" alt="Ivan Rebolledo Banner" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://ivanrebolledo.dev">
     <img src="https://img.shields.io/badge/Portfolio-ivanrebolledo.dev-blue?style=flat&logo=googlechrome" />
   </a>
