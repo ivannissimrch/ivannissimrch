@@ -1,3 +1,9 @@
+<h1 align="center">Hi, I'm Ivan Rebolledo</h1>
+
+<p align="center">
+  <b>Frontend Developer | React • TypeScript • Next.js</b>  
+</p>
+
 <p align="center">
   <a href="https://ivanrebolledo.dev">
     <img src="https://img.shields.io/badge/Portfolio-ivanrebolledo.dev-blue?style=flat&logo=googlechrome" />
@@ -9,9 +15,6 @@
     <img src="https://img.shields.io/badge/Email-ivannissimrch@gmail.com-red?style=flat&logo=gmail" />
   </a>
 </p>
-
-
-# Hello, I'm Ivan Rebolledo
 
 Welcome to my GitHub! I'm a self-taught **Front-End Developer** passionate about building scalable, maintainable real-world applications using modern web technologies like **React** and **TypeScript**.
 
