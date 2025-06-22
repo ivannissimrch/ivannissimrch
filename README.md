@@ -27,6 +27,7 @@ I have 8 months of experience working in **collaborative Agile environments** th
 I'm always exploring new ways to grow as a developer, currently focusing on **React**, **TypeScript**, **unit testing**, and writing clean, efficient code.
 
 I'm actively learning:
+
 - Best front-end practices with guidance from my mentor [Martin Stadler](https://mentorcruise.com/mentor/martinstadler/)
 - Data structures and algorithms through 1:1 tutoring with [Greem L.](https://www.wyzant.com/match/tutor/89018372)
 
@@ -51,18 +52,22 @@ Technologies I'm currently working with:
 Here are a few of my featured projects:
 
 ### [DevVault](https://github.com/chingu-voyages/V55-tier2-team-24)
+
 A resource search app for discovering curated coding content from the Chingu Discord #resources channel.
 **Live site**: https://dev-vault-chingu.netlify.app/
 
 ### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)
+
 A TypeScript-powered app to search and display stock information. Focused on real-world API integration, caching strategies, and unit testing.  
 **Live site**: https://typescriptstocks.netlify.app/
 
 ### [Weekly Bytes](https://github.com/ivannissimrch/weeklyBytes)
+
 A meal scheduler app built with a Chingu team. Allows managers to filter dishes based on employee allergens and dietary needs.
 **Live site**: https://weekly-bytes.com/
 
 Other notable projects:
+
 - **[Expense Splitter](https://github.com/ivannissimrch/expenseSplitter)**: A shared expense tracking app built with a Chingu team.
 - **[Spotify Playlist App](https://github.com/ivannissimrch/typeScriptPlayList)**: Lets users search for songs and create Spotify playlists.
 
@@ -74,5 +79,13 @@ You can explore more in my pinned repositories.
 
 I'm always open to collaboration or chatting about tech!
 
-- **Email**: [ivannissimrch@gmail.com](mailto:ivannissimrch@gmail.com)  
+- **Email**: [ivannissimrch@gmail.com](mailto:ivannissimrch@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ivan-rebolledo-012b17244](https://www.linkedin.com/in/ivan-rebolledo-012b17244/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[ivannissimrch]/[ivannissimrch]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[ivannissimrch]/[ivannissimrch]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[ivannissimrch]/[ivannissimrch]/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
