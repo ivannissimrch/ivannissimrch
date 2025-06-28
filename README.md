@@ -4,6 +4,18 @@
   <img src="https://raw.githubusercontent.com/ivannissimrch/ivannissimrch/main/banner.jpeg" alt="Frontend Banner" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://ivanrebolledo.dev">
+    <img src="https://img.shields.io/badge/Portfolio-ivanrebolledo.dev-blue?style=flat&logo=googlechrome" />
+  </a>
+  <a href="https://linkedin.com/in/ivan-rebolledo-012b17244">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:ivannissimrch@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ivannissimrch@gmail.com-red?style=flat&logo=gmail" />
+  </a>
+</p>
+
 # Hi, I'm Ivan Rebolledo
 
 **Frontend Developer | React • TypeScript • Next.js**
