@@ -1,4 +1,8 @@
 <!-- GitHub Profile README | Ivan Rebolledo | Front-End Developer -->
+<!-- GitHub Profile README | Ivan Rebolledo | Front-End Developer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ivannissimrch/ivannissimrch/main/banner.jpeg" alt="Frontend Banner" width="100%" />
+</p>
 
 # Hi, I'm Ivan Rebolledo
 
