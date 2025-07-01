@@ -70,7 +70,7 @@ A resource search app for discovering curated coding content from the Chingu Dis
 ---
 
 ### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)  
-A TypeScript-powered stock tracker with real-world API integration, caching, and unit testing  
+A tocks searching App with real-world API integration, caching, and unit testing  
 **Live Site:** https://typescriptstocks.netlify.app/
 
 ---
