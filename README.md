@@ -66,18 +66,21 @@ Outside of coding, I love hiking with my miniature poodle and Latin dancing on t
 ### [DevVault](https://github.com/chingu-voyages/V55-tier2-team-24)  
 A resource search app for discovering curated coding content from the Chingu Discord #resources channel  
 **Live Site:** https://dev-vault-chingu.netlify.app/
+![Screen shoot](./devvault.png)
 
 ---
 
 ### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)  
 A tocks searching App with real-world API integration, caching, and unit testing  
 **Live Site:** https://typescriptstocks.netlify.app/
+![Screen shoot](./stocks.png)
 
 ---
 
 ### [Weekly Bytes](https://github.com/ivannissimrch/weeklyBytes)  
 A meal scheduling app for teams, filtering dishes based on dietary needs  
 **Live Site:** https://weekly-bytes.com/
+![Screen shoot](./weeklybytes.png)
 
 ---
 
