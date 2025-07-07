@@ -22,6 +22,8 @@
 
 Welcome to my GitHub! I'm a self-taught **Front-End Developer** passionate about building scalable, maintainable real-world applications using modern web technologies like **React** and **TypeScript**.
 
+I love working on the logic, structure, and state flow of React apps.
+
 I have 8 months of experience working in **collaborative Agile environments** through [Chingu](https://www.chingu.io/), where I've contributed to full development cycles as part of international dev teams.
 
 ---
