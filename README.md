@@ -35,10 +35,6 @@ I have 8 months of experience working in **collaborative Agile environments** th
 - Polishing my Stock Dashboard project
 - Prototyping an ESL shadowing app to help English learners practice speaking and intonation
 
-## Open to Opportunities
-
-I'm actively looking for junior front-end roles. Let’s connect and build something meaningful!
-
 ---
 
 ## About Me
@@ -94,7 +90,7 @@ You can explore more in my pinned repositories.
 ---
 
 
-### 💼 Let's Connect
+###  Let's Connect
 
 -  Email: ivannissimrch@gmail.com  
 -  [LinkedIn](https://www.linkedin.com/in/ivan-rebolledo-012b17244)  
