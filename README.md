@@ -20,7 +20,7 @@
 
 **Frontend Developer | React • TypeScript • Next.js**
 
-Welcome to my GitHub! I'm a self-taught **Front-End Developer** passionate about building scalable, maintainable real-world applications using modern web technologies like **React** and **TypeScript**.
+Welcome to my GitHub! I'm a self-taught **Front-End Developer** focused on building scalable and maintainable real-world applications using modern web technologies like **React** and **TypeScript**.
 
 I love working on the logic, structure, and state flow of React apps.
 
@@ -54,13 +54,11 @@ Outside of coding, I love hiking with my miniature poodle and Latin dancing on t
 ---
 
 ## Tech Stack
-
-- React
-- JavaScript / TypeScript
-- CSS / Tailwind CSS
-- Material-UI
-- Next.js
-
+- **Languages**: JavaScript, TypeScript
+- **Frameworks**: React, Next.js
+- **Styling**: Tailwind CSS, CSS Modules, Material UI
+- **Tools**: Git, GitHub, Vite, Netlify
+- **Learning**: Express, SQL, Unit Testing
 ---
 
 ## Projects
@@ -95,10 +93,14 @@ You can explore more in my pinned repositories.
 
 ---
 
-## Contact
 
-- Email: [ivannissimrch@gmail.com](mailto:ivannissimrch@gmail.com)  
-- LinkedIn: [linkedin.com/in/ivan-rebolledo-012b17244](https://linkedin.com/in/ivan-rebolledo-012b17244)
+### 💼 Let's Connect
+
+-  Email: ivannissimrch@gmail.com  
+-  [LinkedIn](https://www.linkedin.com/in/ivan-rebolledo-012b17244)  
+-  [Portfolio Website](https://ivanrebolledo.dev)
+
+Open to junior front-end developer roles. Let’s build something great together!
 
 ---
 
