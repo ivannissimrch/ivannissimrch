@@ -60,6 +60,7 @@ Outside of coding, I love hiking with my miniature poodle and Latin dancing on t
 ## Projects
 
 ### [DevVault](https://github.com/chingu-voyages/V55-tier2-team-24)  
+### Tech Stack: TypeScript, React, Tailwind CSS,  Material UI, Fuse.js, React-Router
 A resource search app for discovering curated coding content from the Chingu Discord #resources channel  
 **Live Site:** https://dev-vault-chingu.netlify.app/
 ![Screen shoot](./devvault.png)
@@ -67,6 +68,7 @@ A resource search app for discovering curated coding content from the Chingu Dis
 ---
 
 ### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)  
+### Tech Stack: TypeScript, React, CSS,  Material UI.
 A tocks searching App with real-world API integration, caching, and unit testing  
 **Live Site:** https://typescriptstocks.netlify.app/
 ![Screen shoot](./stocks.png)
@@ -74,6 +76,7 @@ A tocks searching App with real-world API integration, caching, and unit testing
 ---
 
 ### [Weekly Bytes](https://github.com/ivannissimrch/weeklyBytes)  
+### Tech Stack: JavaScript, React, Tailwind CSS,  Material UI, React-Select, React-Router
 A meal scheduling app for teams, filtering dishes based on dietary needs  
 **Live Site:** https://weekly-bytes.com/
 ![Screen shoot](./weeklybytes.png)
