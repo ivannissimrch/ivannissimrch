@@ -20,40 +20,27 @@
 
 **Frontend Developer | React • TypeScript • Next.js**
 
-Welcome to my GitHub! I'm a self-taught **Front-End Developer** focused on building scalable and maintainable real-world applications using modern web technologies like **React** and **TypeScript**.
+I'm a Front-End Developer focusing on React, TypeScript, JavaScript, Next.js, Tailwind CSS, and Material UI. I've built various applications, including a stock dashboard with local caching, a developer resources app featuring fuzzy search, and an AI prompt builder.
 
-I love working on the logic, structure, and state flow of React apps.
-
-I have 8 months of experience working in **collaborative Agile environments** through [Chingu](https://www.chingu.io/), where I've contributed to full development cycles as part of international dev teams.
+I have collaborated in Agile teams through Chingu, where I contributed to creating four different applications. My responsibilities included managing state with the Context API and local storage, developing logic to filter dishes for the Weekly Bytes app, creating forms, and utilizing libraries like React Select for drop-down menus and Fuse.js for a smart search bar.
 
 ---
 
 ## Currently Building
 
+- Prototyping an ESL shadowing app to help English learners practice speaking and intonation
 - Practicing algorithms and data structures with JavaScript
 - Exploring Express and SQL to build full-stack apps
 - Polishing my Stock Dashboard project
-- Prototyping an ESL shadowing app to help English learners practice speaking and intonation
 
----
-
-## About Me
-
-I'm always exploring new ways to grow as a developer, currently focusing on **React**, **TypeScript**, **unit testing**, and writing clean, efficient code.
-
-I'm actively learning:
-- Front-end best practices with guidance from [Martin Stadler](https://mentorcruise.com/mentor/martinstadler/)
-- Data structures and algorithms through 1:1 tutoring with [Greem L.](https://www.wyzant.com/match/tutor/89018372)
-
-Outside of coding, I love hiking with my miniature poodle and Latin dancing on the weekends.
 
 ---
 
 ## Tech Stack
 - **Languages**: JavaScript, TypeScript
 - **Frameworks**: React, Next.js
-- **Styling**: Tailwind CSS, CSS Modules, Material UI
-- **Tools**: Git, GitHub, Vite, Netlify
+- **Styling**: Material UI, Tailwind CSS, CSS 
+- **Tools**: Git, GitHub, Vite
 - **Learning**: Express, SQL, Unit Testing
 ---
 
