@@ -48,24 +48,27 @@ I have collaborated in Agile teams through Chingu, where I contributed to creati
 
 ### [DevVault](https://github.com/chingu-voyages/V55-tier2-team-24)  
 ### Tech Stack: TypeScript, React, Tailwind CSS,  Material UI, Fuse.js, React-Router
-A resource search app for discovering curated coding content from the Chingu Discord #resources channel  
+Team project, I built a smart search bar with typo tolerance, fallback caching, and API cleanup for a developer resources App.
 **Live Site:** https://dev-vault-chingu.netlify.app/
+**Case Study:** https://www.ivanrebolledo.dev/projects/devvault
 ![Screen shoot](./devvault.png)
 
 ---
 
 ### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)  
 ### Tech Stack: TypeScript, React, CSS,  Material UI.
-A tocks searching App with real-world API integration, caching, and unit testing  
+Built a stock dashboard with local caching, dual API integration, and interactive charting for time-based trends. 
 **Live Site:** https://typescriptstocks.netlify.app/
+**Case Study:** https://www.ivanrebolledo.dev/projects/stocks
 ![Screen shoot](./stocks.png)
 
 ---
 
 ### [Weekly Bytes](https://github.com/ivannissimrch/weeklyBytes)  
 ### Tech Stack: JavaScript, React, Tailwind CSS,  Material UI, React-Select, React-Router
-A meal scheduling app for teams, filtering dishes based on dietary needs  
+Team project, I built the logic to filter allergy-safe dishes for generating workplace menus on a meal scheduling app for teams.  
 **Live Site:** https://weekly-bytes.com/
+**Case Study:** https://www.ivanrebolledo.dev/projects/weeklybytes
 ![Screen shoot](./weeklybytes.png)
 
 ---
