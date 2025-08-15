@@ -48,8 +48,8 @@ I have collaborated in Agile teams through Chingu, where I contributed to creati
 
 ### [DevVault](https://github.com/chingu-voyages/V55-tier2-team-24)  
 ### Tech Stack: TypeScript, React, Tailwind CSS,  Material UI, Fuse.js, React-Router
-Team project, I built a smart search bar with typo tolerance, fallback caching, and API cleanup for a developer resources App.
-**Live Site:** https://dev-vault-chingu.netlify.app/
+Team project, I built a smart search bar with typo tolerance, fallback caching, and API cleanup for a developer resources App. <br>
+**Live Site:** https://dev-vault-chingu.netlify.app/ <br>
 **Case Study:** https://www.ivanrebolledo.dev/projects/devvault
 ![Screen shoot](./devvault.png)
 
@@ -57,8 +57,8 @@ Team project, I built a smart search bar with typo tolerance, fallback caching, 
 
 ### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)  
 ### Tech Stack: TypeScript, React, CSS,  Material UI.
-Built a stock dashboard with local caching, dual API integration, and interactive charting for time-based trends. 
-**Live Site:** https://typescriptstocks.netlify.app/
+Built a stock dashboard with local caching, dual API integration, and interactive charting for time-based trends. <br>
+**Live Site:** https://typescriptstocks.netlify.app/ <br>
 **Case Study:** https://www.ivanrebolledo.dev/projects/stocks
 ![Screen shoot](./stocks.png)
 
@@ -66,8 +66,8 @@ Built a stock dashboard with local caching, dual API integration, and interactiv
 
 ### [Weekly Bytes](https://github.com/ivannissimrch/weeklyBytes)  
 ### Tech Stack: JavaScript, React, Tailwind CSS,  Material UI, React-Select, React-Router
-Team project, I built the logic to filter allergy-safe dishes for generating workplace menus on a meal scheduling app for teams.  
-**Live Site:** https://weekly-bytes.com/
+Team project, I built the logic to filter allergy-safe dishes for generating workplace menus on a meal scheduling app for teams. <br> 
+**Live Site:** https://weekly-bytes.com/ <br>
 **Case Study:** https://www.ivanrebolledo.dev/projects/weeklybytes
 ![Screen shoot](./weeklybytes.png)
 
