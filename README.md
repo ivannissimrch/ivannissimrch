@@ -1,7 +1,7 @@
 <!-- GitHub Profile README | Ivan Rebolledo | Front-End Developer -->
 <!-- GitHub Profile README | Ivan Rebolledo | Front-End Developer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ivannissimrch/ivannissimrch/main/banner.png" alt="Frontend Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ivannissimrch/ivannissimrch/main/newBaner.png" alt="Frontend Banner" width="100%" />
 </p>
 
 <p align="center">
