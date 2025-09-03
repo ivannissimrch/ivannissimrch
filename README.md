@@ -79,16 +79,6 @@ Team project, I built the logic to filter allergy-safe dishes for generating wor
 
 ---
 
-### Other Projects
-
-- **[Expense Splitter](https://github.com/ivannissimrch/expenseSplitter)** — Shared expense tracker built with a Chingu team  
-- **[Spotify Playlist App](https://github.com/ivannissimrch/typeScriptPlayList)** — Search songs and build playlists with Spotify API
-
-You can explore more in my pinned repositories.
-
----
-
-
 ###  Let's Connect
 
 -  Email: ivannissimrch@gmail.com  
