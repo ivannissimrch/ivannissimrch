@@ -27,23 +27,27 @@ Currently building an ESL shadowing app for language learning and planning addit
 Portfolio: ivanrebolledo.dev 
 
 ---
+### Technologies I work with
 
-## Currently Building
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /><br/>React
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /><br/>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /><br/>JavaScript
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" /><br/>Next.js
+    </td>
+  </tr>
+</table>
 
-- Prototyping an ESL shadowing app to help English learners practice speaking and intonation
-- Practicing algorithms and data structures with JavaScript
-- Exploring Express and SQL to build full-stack apps
-- Polishing my Stock Dashboard project
-
-
----
-
-## Tech Stack
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: React, Next.js
-- **Styling**: Material UI, Tailwind CSS, CSS 
-- **Tools**: Git, GitHub, Vite
-- **Learning**: Express, SQL, Unit Testing
 ---
 
 ## Projects
