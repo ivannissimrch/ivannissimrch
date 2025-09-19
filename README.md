@@ -70,14 +70,6 @@ Built a stock dashboard with local caching, dual API integration, and interactiv
 
 ---
 
-### [Weekly Bytes](https://github.com/ivannissimrch/weeklyBytes)  
-### Tech Stack: JavaScript, React, Tailwind CSS,  Material UI, React-Select, React-Router
-Team project, I built the logic to filter allergy-safe dishes for generating workplace menus on a meal scheduling app for teams. <br> 
-**Live Site:** https://weekly-bytes.com/ <br>
-**Case Study:** https://www.ivanrebolledo.dev/projects/weeklybytes
-![Screen shoot](./weeklybytes.png)
-
----
 
 ###  Let's Connect
 
