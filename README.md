@@ -54,7 +54,7 @@ Portfolio: ivanrebolledo.dev
 
 ### [ShadowSpeak](https://github.com/chingu-voyages/V55-tier2-team-24)
 
-### Tech Stack: TypeScript, React, Tailwind CSS, Material UI, Fuse.js, React-Router
+### Tech Stack: React, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟.
 
 A full-stack language learning platform that centralizes ESL shadowing practice with YouTube video integration, <br>
 browser-based audio recording, and cloud storage, replacing scattered workflows across Google Drive, email, and screen recording software.
