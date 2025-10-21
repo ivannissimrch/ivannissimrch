@@ -1,5 +1,4 @@
 <!-- GitHub Profile README | Ivan Rebolledo | Front-End Developer -->
-<!-- GitHub Profile README | Ivan Rebolledo | Front-End Developer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ivannissimrch/ivannissimrch/main/newBaner.png" alt="Frontend Banner" width="100%" />
 </p>
@@ -24,9 +23,10 @@ I'm a 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 spe
 
 Currently building an ESL shadowing app for language learning and planning additional educational tools. Available for new projects and opportunities.
 
-Portfolio: ivanrebolledo.dev 
+Portfolio: ivanrebolledo.dev
 
 ---
+
 ### Technologies I work with
 
 <table>
@@ -52,33 +52,47 @@ Portfolio: ivanrebolledo.dev
 
 ## Projects
 
-### [DevVault](https://github.com/chingu-voyages/V55-tier2-team-24)  
-### Tech Stack: TypeScript, React, Tailwind CSS,  Material UI, Fuse.js, React-Router
+### [ShadowSpeak](https://github.com/chingu-voyages/V55-tier2-team-24)
+
+### Tech Stack: TypeScript, React, Tailwind CSS, Material UI, Fuse.js, React-Router
+
+A full-stack language learning platform that centralizes ESL shadowing practice with YouTube video integration, <br>
+browser-based audio recording, and cloud storage, replacing scattered workflows across Google Drive, email, and screen recording software.
+
+**Live Site:** https://shadowing-app-spec.vercel.app/ <br>
+
+![Screen shoot](./esl.gif)
+
+---
+
+### [DevVault](https://github.com/chingu-voyages/V55-tier2-team-24)
+
+### Tech Stack: TypeScript, React, Tailwind CSS, Material UI, Fuse.js, React-Router
+
 Team project, I built a smart search bar with typo tolerance, fallback caching, and API cleanup for a developer resources App. <br>
 **Live Site:** https://dev-vault-chingu.netlify.app/ <br>
 **Case Study:** https://www.ivanrebolledo.dev/projects/devvault
-![Screen shoot](./devvault.png)
+![Screen shoot](./devvault.gif)
 
 ---
 
-### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)  
-### Tech Stack: TypeScript, React, CSS,  Material UI.
+### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)
+
+### Tech Stack: TypeScript, React, CSS, Material UI.
+
 Built a stock dashboard with local caching, dual API integration, and interactive charting for time-based trends. <br>
 **Live Site:** https://typescriptstocks.netlify.app/ <br>
 **Case Study:** https://www.ivanrebolledo.dev/projects/stocks
-![Screen shoot](./stocks.png)
+![Screen shoot](./stocks.gif)
 
 ---
 
+### Let's Connect
 
-###  Let's Connect
-
--  Email: ivannissimrch@gmail.com  
--  [LinkedIn](https://www.linkedin.com/in/ivan-rebolledo-012b17244)  
--  [Portfolio Website](https://ivanrebolledo.dev)
+- Email: ivannissimrch@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/ivan-rebolledo-012b17244)
+- [Portfolio Website](https://ivanrebolledo.dev)
 
 Open to junior front-end developer roles. Let’s build something great together!
 
 ---
-
-
