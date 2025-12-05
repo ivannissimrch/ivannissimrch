@@ -54,10 +54,9 @@ Portfolio: ivanrebolledo.dev
 
 ### [ShadowSpeak](https://github.com/chingu-voyages/V55-tier2-team-24)
 
-### Tech Stack: React, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟.
+**Tech Stack:** React, Next.js, TypeScript, Express, PostgreSQL, Azure Blob Storage
 
-A full-stack language learning platform that centralizes ESL shadowing practice with YouTube video integration, <br>
-browser-based audio recording, and cloud storage, replacing scattered workflows across Google Drive, email, and screen recording software.
+Full-stack ESL platform with browser-based audio recording (MediaRecorder API), YouTube segment looping via custom 100ms polling (YouTube API doesn't support this natively), and Azure Blob Storage integration. Built JWT authentication with role-based access control, teachers create lessons and review submissions, students record and submit. PostgreSQL with proper foreign keys and cascade deletes.
 
 **Live Site:** https://shadowing-app-spec.vercel.app/ <br>
 
@@ -67,9 +66,10 @@ browser-based audio recording, and cloud storage, replacing scattered workflows 
 
 ### [DevVault](https://github.com/chingu-voyages/V55-tier2-team-24)
 
-### Tech Stack: TypeScript, React, Tailwind CSS, Material UI, Fuse.js, React-Router
+**Tech Stack:** TypeScript, React, Tailwind CSS, Material UI, Fuse.js, React Router
 
-Team project, I built a smart search bar with typo tolerance, fallback caching, and API cleanup for a developer resources App. <br>
+Developer resource hub with intelligent search. Built the search system: Fuse.js fuzzy matching for typo tolerance, keyword expansion that maps "js" to "javascript" and "frontend" to [HTML, CSS, JavaScript, React], plus stopword removal for cleaner results. Implemented localStorage caching with daily invalidation and Set-based deduplication to prevent duplicate results.
+
 **Live Site:** https://dev-vault-chingu.netlify.app/ <br>
 **Case Study:** https://www.ivanrebolledo.dev/projects/devvault
 ![Screen shoot](./devvault.gif)
@@ -78,9 +78,10 @@ Team project, I built a smart search bar with typo tolerance, fallback caching, 
 
 ### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)
 
-### Tech Stack: TypeScript, React, CSS, Material UI.
+**Tech Stack:** TypeScript, React, Material UI, Axios
 
-Built a stock dashboard with local caching, dual API integration, and interactive charting for time-based trends. <br>
+Stock tracker with dual API integration (Finnhub for real-time quotes, Alpha Vantage for historical data). Built smart caching quotes refresh every 15 minutes, historical data daily. Transforms raw daily data into weekly and monthly averages for trend charts. Debounced search prevents API spam, recently viewed stocks load from cache instantly.
+
 **Live Site:** https://typescriptstocks.netlify.app/ <br>
 **Case Study:** https://www.ivanrebolledo.dev/projects/stocks
 ![Screen shoot](./stocks.gif)
@@ -93,6 +94,6 @@ Built a stock dashboard with local caching, dual API integration, and interactiv
 - [LinkedIn](https://www.linkedin.com/in/ivan-rebolledo-012b17244)
 - [Portfolio Website](https://ivanrebolledo.dev)
 
-Open to junior front-end developer roles. Let’s build something great together!
+Open to frontend developer opportunities. Reach out if you're hiring.
 
 ---
