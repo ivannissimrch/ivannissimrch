@@ -19,7 +19,7 @@
 
 **Frontend Developer | React • TypeScript • Next.js**
 
-I'm a 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in 𝙍𝙚𝙖𝙘𝙩, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙉𝙚𝙭𝙩.𝙟𝙨, 𝙏𝙖𝙞𝙡𝙬𝙞𝙣𝙙 𝘾𝙎𝙎, 𝙈𝙖𝙩𝙚𝙧𝙞𝙖𝙡 𝙐𝙄, and 𝘾𝙤𝙣𝙩𝙚𝙭𝙩 𝘼𝙋𝙄. My current interests include 𝙉𝙤𝙙𝙚.𝙟𝙨, 𝙀𝙭𝙥𝙧𝙚𝙨𝙨, 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇 and 𝙑𝙞𝙩𝙚𝙨𝙩.
+I'm a 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in 𝙍𝙚𝙖𝙘𝙩, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩 and 𝙉𝙚𝙭𝙩.𝙟𝙨. My current interests include 𝙉𝙤𝙙𝙚.𝙟𝙨, 𝙀𝙭𝙥𝙧𝙚𝙨𝙨, 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇 and 𝙑𝙞𝙩𝙚𝙨𝙩.
 
 Currently building an ESL shadowing app for language learning and planning additional educational tools. Available for new projects and opportunities.
 
