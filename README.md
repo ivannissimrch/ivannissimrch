@@ -23,7 +23,7 @@ I'm a 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 spe
 
 Currently building an ESL shadowing app for language learning and planning additional educational tools. Available for new projects and opportunities.
 
-Portfolio: ivanrebolledo.dev
+Portfolio: [Ivan Rebolledo](https://www.ivanrebolledo.dev/)
 
 ---
 
