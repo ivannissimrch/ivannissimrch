@@ -54,7 +54,7 @@ Portfolio: [Ivan Rebolledo](https://www.ivanrebolledo.dev/)
 
 ### [ShadowSpeak](https://github.com/chingu-voyages/V55-tier2-team-24)
 
-**Tech Stack:** React, Next.js, TypeScript, Express, PostgreSQL, Azure Blob Storage
+**Tech Stack:** 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟, 𝗔𝘇𝘂𝗿𝗲 𝗕𝗹𝗼𝗯 𝗦𝘁𝗼𝗿𝗮𝗴𝗲
 
 Full-stack ESL platform with browser-based audio recording (MediaRecorder API), YouTube segment looping via custom 100ms polling (YouTube API doesn't support this natively), and Azure Blob Storage integration. Built JWT authentication with role-based access control, teachers create lessons and review submissions, students record and submit. PostgreSQL with proper foreign keys and cascade deletes.
 
@@ -66,7 +66,7 @@ Full-stack ESL platform with browser-based audio recording (MediaRecorder API), 
 
 ### [DevVault](https://github.com/chingu-voyages/V55-tier2-team-24)
 
-**Tech Stack:** TypeScript, React, Tailwind CSS, Material UI, Fuse.js, React Router
+**Tech Stack:** 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙍𝙚𝙖𝙘𝙩, 𝙏𝙖𝙞𝙡𝙬𝙞𝙣𝙙 𝘾𝙎𝙎, 𝙈𝙖𝙩𝙚𝙧𝙞𝙖𝙡 𝙐𝙄, 𝙁𝙪𝙨𝙚.𝙟𝙨, 𝙍𝙚𝙖𝙘𝙩 𝙍𝙤𝙪𝙩𝙚𝙧
 
 Developer resource hub with intelligent search. Built the search system: Fuse.js fuzzy matching for typo tolerance, keyword expansion that maps "js" to "javascript" and "frontend" to [HTML, CSS, JavaScript, React], plus stopword removal for cleaner results. Implemented localStorage caching with daily invalidation and Set-based deduplication to prevent duplicate results.
 
@@ -78,7 +78,7 @@ Developer resource hub with intelligent search. Built the search system: Fuse.js
 
 ### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)
 
-**Tech Stack:** TypeScript, React, Material UI, Axios
+**Tech Stack:** 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙍𝙚𝙖𝙘𝙩, 𝙈𝙖𝙩𝙚𝙧𝙞𝙖𝙡 𝙐𝙄, 𝘼𝙭𝙞𝙤𝙨
 
 Stock tracker with dual API integration (Finnhub for real-time quotes, Alpha Vantage for historical data). Built smart caching quotes refresh every 15 minutes, historical data daily. Transforms raw daily data into weekly and monthly averages for trend charts. Debounced search prevents API spam, recently viewed stocks load from cache instantly.
 
