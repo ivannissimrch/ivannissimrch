@@ -57,7 +57,8 @@ Portfolio: [Ivan Rebolledo](https://www.ivanrebolledo.dev/)
 
 **Tech Stack:** 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟, 𝗔𝘇𝘂𝗿𝗲 𝗕𝗹𝗼𝗯 𝗦𝘁𝗼𝗿𝗮𝗴𝗲
 
-Full-stack ESL platform with browser-based audio recording (MediaRecorder API), YouTube segment looping via custom 100ms polling (YouTube API doesn't support this natively), and Azure Blob Storage integration. Built JWT authentication with role-based access control, teachers create lessons and review submissions, students record and submit. PostgreSQL with proper foreign keys and cascade deletes.
+ESL shadowing platform built with Next.js and TypeScript. Implemented browser-based audio recording (MediaRecorder API), custom YouTube segment looping via 100ms polling (YouTube API doesn't support this natively) and role-based teacher/student UI flows. Integrated with PostgreSQL backend, Azure Blob Storage, and JWT authentication.
+
 
 **Live Site:** https://shadowing-app-spec.vercel.app/ <br>
 
