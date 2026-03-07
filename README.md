@@ -21,7 +21,8 @@
 
 I'm a 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 specializing in 𝙍𝙚𝙖𝙘𝙩, 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩 and 𝙉𝙚𝙭𝙩.𝙟𝙨. My current interests include 𝙉𝙤𝙙𝙚.𝙟𝙨, 𝙀𝙭𝙥𝙧𝙚𝙨𝙨, 𝙋𝙤𝙨𝙩𝙜𝙧𝙚𝙎𝙌𝙇 and 𝙑𝙞𝙩𝙚𝙨𝙩.
 
-Currently building an ESL shadowing app for language learning and planning additional educational tools. Available for new projects and opportunities.
+Built and deployed ShadowSpeak, an ESL shadowing platform actively used by a teacher and students in South Korea.
+
 
 Portfolio: [Ivan Rebolledo](https://www.ivanrebolledo.dev/)
 
