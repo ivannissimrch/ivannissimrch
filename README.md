@@ -53,19 +53,6 @@ Portfolio: [Ivan Rebolledo](https://www.ivanrebolledo.dev/)
 
 ## Projects
 
----
-
-### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)
-
-**Tech Stack:** 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙍𝙚𝙖𝙘𝙩, 𝙈𝙖𝙩𝙚𝙧𝙞𝙖𝙡 𝙐𝙄, 𝘼𝙭𝙞𝙤𝙨
-
-Stock tracker with dual API integration (Finnhub for real-time quotes, Alpha Vantage for historical data). Built smart caching quotes refresh every 15 minutes, historical data daily. Transforms raw daily data into weekly and monthly averages for trend charts. Debounced search prevents API spam, recently viewed stocks load from cache instantly.
-
-**Live Site:** https://typescriptstocks.netlify.app/ <br>
-**Case Study:** https://www.ivanrebolledo.dev/projects/stocks
-![Screen shoot](./stocks.gif)
-
----
 
 ### [ShadowSpeak](https://github.com/chingu-voyages/V55-tier2-team-24)
 
@@ -80,6 +67,7 @@ ESL shadowing platform built with Next.js and TypeScript. Implemented browser-ba
 
 ---
 
+
 ### [DevVault](https://github.com/chingu-voyages/V55-tier2-team-24)
 
 **Tech Stack:** 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙍𝙚𝙖𝙘𝙩, 𝙏𝙖𝙞𝙡𝙬𝙞𝙣𝙙 𝘾𝙎𝙎, 𝙈𝙖𝙩𝙚𝙧𝙞𝙖𝙡 𝙐𝙄, 𝙁𝙪𝙨𝙚.𝙟𝙨, 𝙍𝙚𝙖𝙘𝙩 𝙍𝙤𝙪𝙩𝙚𝙧
@@ -92,6 +80,22 @@ Developer resource hub with intelligent search. Built the search system: Fuse.js
 
 
 ---
+
+
+---
+
+### [Stock Dashboard](https://github.com/ivannissimrch/stockDashBoard)
+
+**Tech Stack:** 𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩, 𝙍𝙚𝙖𝙘𝙩, 𝙈𝙖𝙩𝙚𝙧𝙞𝙖𝙡 𝙐𝙄, 𝘼𝙭𝙞𝙤𝙨
+
+Stock tracker with dual API integration (Finnhub for real-time quotes, Alpha Vantage for historical data). Built smart caching quotes refresh every 15 minutes, historical data daily. Transforms raw daily data into weekly and monthly averages for trend charts. Debounced search prevents API spam, recently viewed stocks load from cache instantly.
+
+**Live Site:** https://typescriptstocks.netlify.app/ <br>
+**Case Study:** https://www.ivanrebolledo.dev/projects/stocks
+![Screen shoot](./stocks.gif)
+
+---
+
 
 ### Let's Connect
 
