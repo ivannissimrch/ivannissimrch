@@ -53,8 +53,22 @@ Portfolio: [Ivan Rebolledo](https://www.ivanrebolledo.dev/)
 
 ## Projects
 
+### [Need4Deed (Open Source Contributor)](https://github.com/need4deed-org/fe)
 
-### [ShadowSpeak](https://github.com/chingu-voyages/V55-tier2-team-24)
+**Tech Stack:** 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗥𝗲𝗮𝗰𝘁, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗧𝗮𝗻𝗦𝘁𝗮𝗰𝗸 𝗤𝘂𝗲𝗿𝘆, 𝗦𝘁𝘆𝗹𝗲𝗱 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀
+
+Platform a Berlin NGO uses to connect volunteers with refugee accommodation centers. 38 merged pull requests so far, working in a small team with code review,
+standups and a shared SDK contract between the frontend and backend.
+
+**My merged PRs:** https://github.com/need4deed-org/fe/pulls?q=is%3Apr+author%3Aivannissimrch+is%3Amerged
+
+---
+
+
+
+
+
+### [ShadowSpeak](https://github.com/ivannissimrch/shadowing-app)
 
 **Tech Stack:** 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀, 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟, 𝗔𝘇𝘂𝗿𝗲 𝗕𝗹𝗼𝗯 𝗦𝘁𝗼𝗿𝗮𝗴𝗲
 
